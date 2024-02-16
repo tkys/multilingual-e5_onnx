@@ -7,7 +7,7 @@
 
 ## Result
 
-multi-e5.ONNX is  **x7.83 faster** than normal multi-e5. 
+multi-e5.ONNX is   ~~**x7.83 faster**~~ than normal multi-e5. 
 
 ---
 ## Benchmark 
