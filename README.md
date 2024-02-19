@@ -1,17 +1,23 @@
-# multilingual-e5_onnx
+# multilingual-e5_onnx encodeing speed comparison
 
 ノーマルmultilingual-e5-smallと量子最適化された.onnxモデルでの推論の速度比較
+
+[https://huggingface.co/intfloat/multilingual-e5-small](https://huggingface.co/intfloat/multilingual-e5-small)
+
+[https://huggingface.co/intfloat/multilingual-e5-small/blob/main/onnx/model.onnx](https://huggingface.co/intfloat/multilingual-e5-small/blob/main/onnx/model.onnx)
 
 .onnxモデルはHFリポジトリ内で提供されているモデルをそのまま使う
 
 
 ## Result
 
-multi-e5.onnx is  **x2 faster** than normal multi-e5.bin @googlecolab/cpu
- 
+multilingual-e5.onnx is  **x2 faster** than normal multilingual-e5.bin @googlecolab/cpu
+
 
 ![plot](https://github.com/tkys/multilingual-e5_onnx/assets/24400946/2257ed3f-b36d-4cc7-872e-0ac778a90b26)
 
+
+ 
 
 ---
 ## Benchmark 
