@@ -41,7 +41,8 @@ Trail:9 Done
 
 ## Result ##
 
-Trail_Count:10 
+Trail_Count:10
+
 onnx_time_total	14.439099999999998
 onnx_token_total	13279
 onnx_speed	920 token/sec
